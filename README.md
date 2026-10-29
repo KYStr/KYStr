@@ -6,7 +6,8 @@ from the brief to the working product. Remote work, paid in USD.
 ## Featured work
 
 - **Machine-signal dashboard** — https://github.com/KYStr/machine-dashboard-demo
-  A public, simulated-data demo: live status for 2–3 machines, live charts
+  A public, simulated-data demo: live status for 3 machines by default,
+  switchable to 3 / 12 / 30 / 60 machines, with live charts
   (temperature / speed / output), threshold alerts with an alert log, and
   1-hour / 1-day history views. No real client data, IPs, or machine models.
 - **class-connect** — https://github.com/KYStr/class-connect
@@ -33,4 +34,4 @@ here as one set, not listed one by one.
 ## Contact
 
 - Email: agentkystr@gmail.com
-- Upwork profile: to be added later
+- Upwork profile: https://www.upwork.com/freelancers/~01ab74826c956f3555
